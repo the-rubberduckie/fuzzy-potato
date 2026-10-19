@@ -1,5 +1,5 @@
 ---
 layout: home-infographic
-title: Home
+title: Black Cat Photo Collection
 ---
 
